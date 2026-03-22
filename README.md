@@ -2,7 +2,7 @@
 
 A Google Colab notebook that runs [Ollama](https://ollama.com/) and exposes it to the internet, enabling you to do the heavy lifting in the cloud and access it from your local machine .
 
-Collab URL: [https://colab.research.google.com/drive/1Eq47JU1Swj1eBkr38Dk_SFDZHryfNIaN?usp=sharing](GoogleCollab)
+Collab URL: [Google Collab](https://colab.research.google.com/drive/1Eq47JU1Swj1eBkr38Dk_SFDZHryfNIaN?usp=sharing)
 
 ## Prerequisites
 - Google Colab or a similar Jupyter notebook environment
