@@ -8,7 +8,7 @@ Collab URL: [Google Collab](https://colab.research.google.com/drive/1Eq47JU1Swj1
 - Google Colab or a similar Jupyter notebook environment
 - Internet connection for installing packages and creating the tunnel
 
-## Usage
+## Get Started
 1. Open the notebook in Google Colab
 2. Run each cell sequentially:
    - Cell 1: Installs Ollama and dependencies
