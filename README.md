@@ -8,6 +8,36 @@ Collab URL: [Google Collab](https://colab.research.google.com/drive/1Eq47JU1Swj1
 - Google Colab or a similar Jupyter notebook environment
 - Internet connection for installing packages and creating the tunnel
 
+---
+
+## Features
+
+- One-click Ollama setup on Colab  
+- Run models like Llama, Qwen, Deepseek, CodeLlama  
+- LangChain integration (prompt → response pipeline)  
+- Minimal setup, maximum speed  
+
+---
+
+## Who Is This For?
+
+- Developers without a local GPU  
+- People who want fast prototyping  
+- Anyone experimenting with LLMs  
+- Builders working on agents or automation  
+
+---
+
+## What Can You Do?
+
+- Test coding LLMs  
+- Experiment with prompt engineering  
+- Build simple AI tools  
+- Create LangChain + Ollama workflows  
+
+---
+
+
 ## Get Started
 1. Open the notebook in Google Colab
 2. Run each cell sequentially:
@@ -33,6 +63,34 @@ ollama ps
 - **Port**: `11434` (exposed on all interfaces)
 - **Context Length**: 128,000 tokens
 - **Tunnel Service**: [Pinggy](https://pinggy.io/) (free SSH tunnel)
+
+
+## Limitations
+
+- Colab sessions are ephemeral (restart resets everything)  
+- GPU usage is limited  
+- Large models may not fit in memory  
+
+---
+
+## Contributing
+
+This repository is open to contributions.
+
+If your notebook uses Ollama to solve a real use-case that can help others learn something, feel free to open a pull request.
+
+---
+
+## Note
+
+This repository is not intended for production use.  
+It is designed as a quick test and playground environment.
+
+## Acknowledgements
+
+This project was inspired by https://github.com/0x1881/collama .
+Thanks to the author for the initial work and concept.
+
 
 ## License
 
